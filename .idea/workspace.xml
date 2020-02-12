@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7d197fd-8c73-4b5b-92fc-a5cdeb61448c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XHAopjwwvkRJ439D5WtwAiJWiK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/Local Development/ChatBot/ChatBot" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7d197fd-8c73-4b5b-92fc-a5cdeb61448c" name="Default Changelist" comment="" />
+      <created>1580692824115</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580692824115</updated>
+      <workItem from="1580692827659" duration="5308000" />
+      <workItem from="1580759908841" duration="306000" />
+      <workItem from="1580873008177" duration="1936000" />
+      <workItem from="1581015934334" duration="12308000" />
+      <workItem from="1581300240521" duration="624000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1230" y="199" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580693161639">
+      <screen x="-1920" y="-131" width="1920" height="1160" />
+    </state>
+    <state x="-1230" y="199" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.-116.1920.1160/-1920.-131.1920.1160@-1920.-131.1920.1160" timestamp="1580693161639" />
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1581300263324">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040/1920.-116.1920.1160/-1920.-131.1920.1160@0.0.1920.1040" timestamp="1581300263324" />
+  </component>
+</project>
